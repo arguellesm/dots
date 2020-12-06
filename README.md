@@ -9,6 +9,7 @@ Personal dotfiles just in case I mess everything up.
 - **Compositor**: Picom, forked by [ibhagwan](https://github.com/ibhagwan) for that round corner sweetness.  
 - **Terminal**: urxvt  
 
+They are by no means finished, so expect some ugliness here and there.
 
 ![](https://github.com/arguellesm/dotfiles/blob/main/desktop.png?raw=true)
 
