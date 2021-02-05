@@ -1,0 +1,30 @@
+# zathurarc - zathura's config file
+# check man zathurarc for more 
+
+# general
+set default-bg rgba(0,0,0,0)
+set font "monospace regular 10"
+
+#status bar 
+set statusbar-bg "#4e5463"
+set statusbar-fg "#e5e9f0"
+set statusbar-basename
+
+# input bar
+set inputbar-bg "#4e5463"
+set inputbar-fg "#e5e9f0"
+
+# highlighting colors
+set highlight-color "#81a1c1"
+set highlight-active-color "#8fbcbb"
+
+# adjust mode
+set adjust-open width
+set page.padding 5
+
+# scrolling
+set scroll-step 50.0
+
+# key bindings
+map + zoom in
+map - zoom out

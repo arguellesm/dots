@@ -97,5 +97,6 @@ source $ZSH/oh-my-zsh.sh
 #
 # Example aliases
 alias python="python3"
+alias neofetch="neofetch --ascii_colors 12 --colors 12 12 15 12 12 15 --source /home/mer/cat.txt"
 
 xrdb ~/.Xresources
